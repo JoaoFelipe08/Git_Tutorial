@@ -8,4 +8,9 @@ public class compsci
             System.out.println("Testing");
         }
     }
+    public static void print(String message)
+    {
+        System.out.print(message);
+
+    }
 }
